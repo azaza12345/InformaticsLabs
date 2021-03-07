@@ -1,0 +1,11 @@
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.exe
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.deps.json
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.runtimeconfig.json
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.runtimeconfig.dev.json
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.dll
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\bin\Debug\netcoreapp3.1\InformaticLabs.pdb
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.csprojAssemblyReference.cache
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.AssemblyInfoInputs.cache
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.AssemblyInfo.cs
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.dll
+C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.pdb
