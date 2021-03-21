@@ -9,3 +9,8 @@ C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcore
 C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.AssemblyInfo.cs
 C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.dll
 C:\Users\anjac\OneDrive\Рабочий стол\InformaticLabs\obj\Debug\netcoreapp3.1\InformaticLabs.pdb
+C:\Users\anjac\OneDrive\Документы\InformaticsLabs\obj\Debug\netcoreapp3.1\InformaticLabs.csprojAssemblyReference.cache
+C:\Users\anjac\OneDrive\Документы\InformaticsLabs\obj\Debug\netcoreapp3.1\InformaticLabs.AssemblyInfoInputs.cache
+C:\Users\anjac\OneDrive\Документы\InformaticsLabs\obj\Debug\netcoreapp3.1\InformaticLabs.AssemblyInfo.cs
+C:\Users\anjac\OneDrive\Документы\InformaticsLabs\obj\Debug\netcoreapp3.1\InformaticLabs.dll
+C:\Users\anjac\OneDrive\Документы\InformaticsLabs\obj\Debug\netcoreapp3.1\InformaticLabs.pdb

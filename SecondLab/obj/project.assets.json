@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anjac\\OneDrive\\Рабочий стол\\InformaticLabs\\InformaticLabs.csproj",
-      "projectName": "InformaticLabs",
-      "projectPath": "C:\\Users\\anjac\\OneDrive\\Рабочий стол\\InformaticLabs\\InformaticLabs.csproj",
+      "projectUniqueName": "C:\\Users\\anjac\\OneDrive\\Документы\\InformaticsLabs\\InformaticsLabs.csproj",
+      "projectName": "InformaticsLabs",
+      "projectPath": "C:\\Users\\anjac\\OneDrive\\Документы\\InformaticsLabs\\InformaticsLabs.csproj",
       "packagesPath": "C:\\Users\\anjac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anjac\\OneDrive\\Рабочий стол\\InformaticLabs\\obj\\",
+      "outputPath": "C:\\Users\\anjac\\OneDrive\\Документы\\InformaticsLabs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
