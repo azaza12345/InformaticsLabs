@@ -1,0 +1,39 @@
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\bin\Debug\Prak01.exe.config
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\bin\Debug\Prak01.exe
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\bin\Debug\Prak01.pdb
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.csprojAssemblyReference.cache
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.Form1.resources
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.Properties.Resources.resources
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.csproj.GenerateResource.cache
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.csproj.CoreCompileInputs.cache
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.exe
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.pdb
+C:\Users\Лев\Desktop\Prak01\Prak01\bin\Debug\Prak01.exe.config
+C:\Users\Лев\Desktop\Prak01\Prak01\bin\Debug\Prak01.exe
+C:\Users\Лев\Desktop\Prak01\Prak01\bin\Debug\Prak01.pdb
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.Form1.resources
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.InputForm.resources
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.Properties.Resources.resources
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.csproj.CoreCompileInputs.cache
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.exe
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.pdb
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.Reverse.resources
+C:\Users\Лев\Desktop\Prak01\Prak01\obj\Debug\Prak01.InputForm2.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.csprojAssemblyReference.cache
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.Form1.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.InputForm.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.InputForm2.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.Properties.Resources.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.Reverse.resources
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.csproj.GenerateResource.cache
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.csproj.CoreCompileInputs.cache
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.exe
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\obj\Debug\Prak01.pdb
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\bin\Debug\Prak01.exe.config
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\bin\Debug\Prak01.exe
+C:\Users\llogv\OneDrive\Рабочий стол\Prak01\Prak01\bin\Debug\Prak01.pdb
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.InputForm.resources
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.InputForm2.resources
+C:\Users\llogv\OneDrive\Рабочий стол\прога\Prak01\Prak01\obj\Debug\Prak01.Reverse.resources
